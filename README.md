@@ -12,7 +12,7 @@ This project consists of the movement of an avatar through the software PoseNet.
 - right ankle
 - left ankle
 
-In addition to that, the head of the avatar follows a sphere that rotates around the initial position of the head 180º in each direciton.
+In addition to that, the head of the avatar follows a sphere that uniformly rotates 180º around the initial position of the head.
 
 _________________________
 
